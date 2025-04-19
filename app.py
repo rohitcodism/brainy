@@ -46,7 +46,7 @@ def predict_image(image):
 
 # Streamlit UI setup
 st.set_page_config(page_title="Brain Tumor Classifier", page_icon="🧠", layout="centered")
-st.title("🧠 Brain Tumor Classifier")
+st.title("🧠 AI Powered Brain Tumor Classifier")
 
 # Add a description for the web app
 st.write("""
